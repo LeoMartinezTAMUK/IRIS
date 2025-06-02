@@ -18,6 +18,9 @@ The proposed framework enhances downstream classifier performance and aims to de
 
 ## Methodology
 
+The Proposed Model Flow Chart:
+![Proposed Model](images/RTS-Proposed_Model.png)
+
 ### Dataset
 
 The model uses the **UNSW-NB15** dataset, which includes 49 features and 9 attack types:
@@ -64,11 +67,8 @@ The proposed DNN is a feedforward binary classification model with:
 - **Epochs**: 100
 - **Batch Size**: 1024
 
----
-
-## Figure
-
-**Figure 1**. Architecture of the Deep Neural Network (DNN) used for binary classification of network intrusions.
+Architecture of the Deep Neural Network (DNN) used for binary classification of network intrusions.
+![DNN Model Architecture](images/dnn_arch.png)
 
 ---
 
