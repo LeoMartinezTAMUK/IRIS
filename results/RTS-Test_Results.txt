@@ -1,0 +1,13 @@
+Real Time-Based Network Intrusion Detection System (IDS) Results:
+
+Threshold: 90% (0.9)
+
+Class distribution in network_log.txt:
+Normal (0) 	37000
+Attack (1)	45332
+
+Identified from Real Time System:
+Total Intrusions: 44069, Total Normal: 38263
+
+
+Total Intrusions: 45264, Total Normal: 37068 Threshold: 89.975% (0.89975)
