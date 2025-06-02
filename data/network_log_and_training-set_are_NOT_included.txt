@@ -1,0 +1,1 @@
+Due to file size constraints on GitHub, the training dataset and network log file are not included here, but can be requested at anytime by reaching out to me.
