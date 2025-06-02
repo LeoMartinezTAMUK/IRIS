@@ -67,7 +67,7 @@ The proposed DNN is a feedforward binary classification model with:
 - **Epochs**: 100
 - **Batch Size**: 1024
 
-Architecture of the Deep Neural Network (DNN) used for binary classification of network intrusions.
+Architecture of the Deep Neural Network (DNN) used for binary classification of network intrusions:
 ![DNN Model Architecture](images/dnn_arch.png)
 
 ---
